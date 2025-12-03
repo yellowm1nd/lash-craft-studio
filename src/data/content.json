@@ -1,0 +1,152 @@
+{
+  "siteSettings": {
+    "brandPrimary": "#D4C5B9",
+    "brandAccent": "#E8C4C4",
+    "bookingUrl": "https://www.treatwell.at/ort/lashes-by-danesh/",
+    "phone": "+43 676 4445614",
+    "email": "info@lashesbydanesh.at",
+    "address": "Süßenbrunner Straße 68/4/5\n1220 Wien, Österreich",
+    "instagram": "https://instagram.com/lashesbydanesh",
+    "facebook": "",
+    "tiktok": "",
+    "logoUrl": ""
+  },
+  "openingHours": [
+    { "day": "Montag", "open": "10:00", "close": "18:00", "closed": false },
+    { "day": "Dienstag", "open": "09:00", "close": "18:00", "closed": false },
+    { "day": "Mittwoch", "open": "09:00", "close": "18:00", "closed": false },
+    { "day": "Donnerstag", "open": "09:00", "close": "18:00", "closed": false },
+    { "day": "Freitag", "open": "09:00", "close": "18:00", "closed": false },
+    { "day": "Samstag", "open": "", "close": "", "closed": true },
+    { "day": "Sonntag", "open": "", "close": "", "closed": true }
+  ],
+  "services": [
+    {
+      "id": "wimpernverlaengerung",
+      "title": "Wimpernverlängerungen",
+      "excerpt": "Professionelle Wimpernverlängerung vom natürlichen Classic-Look bis zum dramatischen Megavolumen – für einen unvergesslichen Augenaufschlag.",
+      "description": "Entdecken Sie die Kunst der Wimpernverlängerung bei Lashes by Danesh. Jede Wimper wird individuell mit höchster Präzision und Sorgfalt appliziert, um Ihren perfekten Look zu kreieren.\n\n**Behandlungsablauf:**\n- Ausführliche Beratung zu Form, Länge und Volumen\n- Professionelle Applikation mit hochwertigen Produkten\n- Entspannte Atmosphäre in meinem Studio\n- Detaillierte Pflegehinweise für lange Haltbarkeit (bis zu 6 Wochen)\n\n**Verfügbare Volumen-Stufen:**\n- **1:1 Classic** – Zeitlos elegant, natürlicher Look\n- **Leichtes Volumen** – Dezente Fülle, perfekt für den Alltag\n- **Volumen** – Voller, ausdrucksstarker Blick\n- **Megavolumen** – Maximales Drama für besondere Anlässe\n\n**Ihre Vorteile:**\n- Kein tägliches Mascara mehr nötig\n- Wasserfest und langanhaltend\n- Individuell auf Ihre Augenform abgestimmt\n- Hochwertige Materialien für beste Verträglichkeit",
+      "imageUrl": "https://images.unsplash.com/photo-1610642816693-62c2eff34da6?w=800&q=80",
+      "order": 1
+    },
+    {
+      "id": "augenbrauen-wimpern-behandlungen",
+      "title": "Augenbrauen & Wimpernbehandlungen",
+      "excerpt": "Professionelles Färben und Zupfen für perfekt definierte Augenbrauen und intensiv betonte Wimpern – natürliche Schönheit, die überzeugt.",
+      "description": "Betonen Sie Ihre natürliche Schönheit mit unseren professionellen Augenbrauen- und Wimpernbehandlungen. Perfekt geformte Brauen und intensiv gefärbte Wimpern verleihen Ihrem Gesicht Ausdruck und Kontur.\n\n**Unsere Behandlungen:**\n\n**Augenbrauen zupfen:**\n- Individuelle Formgebung nach Gesichtsform\n- Präzise Technik für saubere Konturen\n- Schmerzarme Behandlung\n- Beratung zur optimalen Brauenform\n\n**Wimpern & Augenbrauen färben:**\n- Intensive, langanhaltende Farbe (3-4 Wochen)\n- Hochwertige, schonende Produkte\n- Perfekt definierter Rahmen für Ihre Augen\n- Wasserfest und pflegeleicht\n\n**Ihre Vorteile:**\n- Kein tägliches Augenbrauen-Make-up nötig\n- Perfekt für Urlaub, Sport und Alltag\n- Natürlicher Look ohne künstliche Wirkung\n- Zeit sparen bei der täglichen Beauty-Routine\n\n**Behandlungsdauer:** 15-30 Minuten\n\n**Tipp:** Kombinieren Sie Zupfen und Färben für das perfekte Gesamtpaket und sparen Sie dabei!",
+      "imageUrl": "https://images.unsplash.com/photo-1522337660859-02fbefca4702?w=800&q=80",
+      "order": 2
+    }
+  ],
+  "prices": [
+    {
+      "serviceId": "augenbrauen-wimpern-behandlungen",
+      "category": "Färben & Zupfen",
+      "durationRange": "15-30 Min.",
+      "startingPrice": 10,
+      "items": [
+        { "name": "Wimpern färben", "amount": 10, "duration": 15, "badge": "" },
+        { "name": "Augenbrauen zupfen", "amount": 10, "duration": 15, "badge": "" },
+        { "name": "Augenbrauen färben & zupfen, Wimpern färben", "amount": 25, "duration": 30, "badge": "Sparpaket" }
+      ]
+    },
+    {
+      "serviceId": "wimpernverlaengerung",
+      "category": "Wimpernverlängerung - Neulage 1:1 Technik",
+      "durationRange": "1 Std. - 1 Std. 45 Min.",
+      "startingPrice": 45,
+      "description": "Zeitlos elegant und natürlicher Look. Jede einzelne Wimper wird mit einer künstlichen Wimper verlängert - perfekt für einen dezenten, natürlichen Augenaufschlag.",
+      "items": [
+        { "name": "Refill 5-14 Tage", "amount": 45, "duration": 60, "badge": "", "description": "Auffüllen nach 5-14 Tagen" },
+        { "name": "Refill 15-21 Tage", "amount": 55, "duration": 75, "badge": "", "description": "Auffüllen nach 15-21 Tagen" },
+        { "name": "Refill 22-28 Tage", "amount": 65, "duration": 90, "badge": "", "description": "Auffüllen nach 22-28 Tagen" },
+        { "name": "Neuset", "amount": 75, "duration": 105, "badge": "Erstbehandlung", "description": "Komplette Neuanlage" }
+      ]
+    },
+    {
+      "serviceId": "wimpernverlaengerung",
+      "category": "Wimpernverlängerung - Leichtes Volumen",
+      "durationRange": "1 Std. 15 Min. - 2 Std.",
+      "startingPrice": 50,
+      "description": "Dezente Fülle, perfekt für den Alltag. Mehrere feine Wimpern werden auf jede natürliche Wimper gesetzt - für mehr Volumen ohne dramatischen Effekt.",
+      "items": [
+        { "name": "Refill 5-14 Tage", "amount": 50, "duration": 75, "badge": "", "description": "Auffüllen nach 5-14 Tagen" },
+        { "name": "Refill 15-21 Tage", "amount": 60, "duration": 90, "badge": "", "description": "Auffüllen nach 15-21 Tagen" },
+        { "name": "Refill 22-28 Tage", "amount": 70, "duration": 105, "badge": "", "description": "Auffüllen nach 22-28 Tagen" },
+        { "name": "Neuset", "amount": 85, "duration": 120, "badge": "Erstbehandlung", "description": "Komplette Neuanlage" }
+      ]
+    },
+    {
+      "serviceId": "wimpernverlaengerung",
+      "category": "Wimpernverlängerung - Volumen",
+      "durationRange": "1 Std. 15 Min. - 2 Std.",
+      "startingPrice": 55,
+      "description": "Voller, ausdrucksstarker Blick. Mehrere Wimpern werden zu einem Fächer gebunden - für deutlich mehr Volumen und Dramatik.",
+      "items": [
+        { "name": "Refill 5-14 Tage", "amount": 55, "duration": 75, "badge": "Beliebt", "description": "Auffüllen nach 5-14 Tagen" },
+        { "name": "Refill 15-21 Tage", "amount": 65, "duration": 90, "badge": "", "description": "Auffüllen nach 15-21 Tagen" },
+        { "name": "Refill 22-28 Tage", "amount": 75, "duration": 105, "badge": "", "description": "Auffüllen nach 22-28 Tagen" },
+        { "name": "Neuset", "amount": 95, "duration": 120, "badge": "Erstbehandlung", "description": "Komplette Neuanlage" }
+      ]
+    },
+    {
+      "serviceId": "wimpernverlaengerung",
+      "category": "Wimpernverlängerung - Megavolumen",
+      "durationRange": "1 Std. 20 Min. - 2 Std. 30 Min.",
+      "startingPrice": 70,
+      "description": "Maximales Drama für besondere Anlässe. Besonders viele dünne Wimpern werden zu voluminösen Fächern gebunden - für den absoluten Wow-Effekt.",
+      "items": [
+        { "name": "Refill 5-14 Tage", "amount": 70, "duration": 80, "badge": "", "description": "Auffüllen nach 5-14 Tagen" },
+        { "name": "Refill 15-21 Tage", "amount": 80, "duration": 95, "badge": "", "description": "Auffüllen nach 15-21 Tagen" },
+        { "name": "Refill 22-28 Tage", "amount": 95, "duration": 120, "badge": "", "description": "Auffüllen nach 22-28 Tagen" },
+        { "name": "Neuset", "amount": 125, "duration": 150, "badge": "Premium", "description": "Komplette Neuanlage" }
+      ]
+    },
+    {
+      "serviceId": "wimpernverlaengerung",
+      "category": "Wimpernverlängerung - Entfernen",
+      "durationRange": "30 Min.",
+      "startingPrice": 25,
+      "description": "Schonende Entfernung Ihrer Wimpernverlängerung mit professionellem Remover. Ihre natürlichen Wimpern werden dabei nicht beschädigt.",
+      "items": [
+        { "name": "Entfernen", "amount": 25, "duration": 30, "badge": "", "description": "Vollständige Entfernung der Extensions" }
+      ]
+    }
+  ],
+  "gallery": [
+    { "id": "1", "url": "https://images.unsplash.com/photo-1610642816693-62c2eff34da6?w=800&q=80", "category": "work", "order": 1 },
+    { "id": "2", "url": "https://images.unsplash.com/photo-1571939228382-b2f2b585ce15?w=800&q=80", "category": "work", "order": 2 },
+    { "id": "3", "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=800&q=80", "category": "work", "order": 3 },
+    { "id": "4", "url": "https://images.unsplash.com/photo-1620331311520-246422fd82f9?w=800&q=80", "category": "studio", "order": 4 },
+    { "id": "5", "url": "https://images.unsplash.com/photo-1560750588-73207b1ef5b8?w=800&q=80", "category": "studio", "order": 5 },
+    { "id": "6", "url": "https://images.unsplash.com/photo-1487412947147-5cebf100ffc2?w=800&q=80", "category": "work", "order": 6 }
+  ],
+  "testimonials": [
+    {
+      "id": "1",
+      "name": "Sarah M.",
+      "text": "Danesh ist super! Meine Wimpern sehen toll aus und halten wirklich lange. Sehr professionelle Arbeit und angenehme Atmosphäre. Ich komme definitiv wieder!",
+      "stars": 5,
+      "imageUrl": ""
+    },
+    {
+      "id": "2",
+      "name": "Lisa K.",
+      "text": "Sehr professionell und sauberes Studio. Danesh nimmt sich Zeit für die Beratung und das Ergebnis ist jedes Mal perfekt. Absolut empfehlenswert!",
+      "stars": 5,
+      "imageUrl": ""
+    },
+    {
+      "id": "3",
+      "name": "Anna P.",
+      "text": "Kann ich nur empfehlen! Die Wimpernverlängerung hält super lange und sieht einfach natürlich aus. Danesh arbeitet sehr präzise und achtet auf jedes Detail.",
+      "stars": 5,
+      "imageUrl": ""
+    }
+  ],
+  "promotions": [],
+  "legal": {
+    "impressum": "# Impressum\n\n**Informationspflicht laut § 5 E-Commerce Gesetz (ECG), § 14 Unternehmensgesetzbuch (UGB) und Offenlegungspflicht laut § 25 Mediengesetz:**\n\n**Lashes by Danesh**\n\nInhaberin: Szabina Danesh\nSüßenbrunner Straße 68/4/5\n1220 Wien, Österreich\n\n**Kontaktdaten:**\nTelefon: +43 676 4445614\nE-Mail: info@lashesbydanesh.at\nWebsite: https://lashesbydanesh.at\n\n**Unternehmensgegenstand:**\nKosmetik- und Schönheitsdienstleistungen, spezialisiert auf Wimpernverlängerung und Augenbrauen-Styling\n\n**Online-Streitbeilegung:**\nVerbraucher haben die Möglichkeit, Beschwerden an die Online-Streitbeilegungsplattform der EU zu richten: https://ec.europa.eu/consumers/odr/main\nSie können allfällige Beschwerde auch an die oben angegebene E-Mail-Adresse richten.\n\n## Haftungsausschluss\n\n### Haftung für Inhalte\nDie Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Wir sind jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.\n\n### Haftung für Links\nUnser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar.\n\n### Urheberrecht\nDie durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem österreichischen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.\n\n### Empfehlungsprogramm\nWir freuen uns über Ihre Weiterempfehlung! Bei der Nutzung unseres Empfehlungsprogramms werden personenbezogene Daten (Name, E-Mail-Adresse) gemäß unserer Datenschutzerklärung verarbeitet. Die Teilnahme ist freiwillig. Weitere Informationen finden Sie in unserer Datenschutzerklärung.\n\n**Bildnachweise:**\nDie verwendeten Bilder stammen von Unsplash.com und unterliegen den jeweiligen Lizenzbedingungen.\n\n**Websiteentwicklung:**\nRed Rabbit Media - https://redrabbit.media",
+    "datenschutz": "# Datenschutzerklärung\n\n## 1. Datenschutz auf einen Blick\n\n### Allgemeine Hinweise\n\nDie folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.\n\n## 2. Verantwortlicher\n\nVerantwortlich für die Datenverarbeitung auf dieser Website ist:\n\n**Szabina Danesh**\nLashes by Danesh\nSüßenbrunner Straße 68/4/5\n1220 Wien, Österreich\n\nTelefon: +43 676 4445614\nE-Mail: info@lashesbydanesh.at\n\nVerantwortlicher ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, E-Mail-Adressen o.Ä.) entscheidet.\n\n## 3. Datenerfassung auf dieser Website\n\n### Wie erfassen wir Ihre Daten?\n\nIhre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z.B. um Daten handeln, die Sie in ein Kontaktformular eingeben oder bei einer Terminbuchung angeben.\n\nAndere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z.B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.\n\n### Wofür nutzen wir Ihre Daten?\n\nEin Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden (sofern Sie eingewilligt haben). Personenbezogene Daten werden zur Terminvereinbarung und Kundenkommunikation verwendet.\n\n### Welche Rechte haben Sie bezüglich Ihrer Daten?\n\nSie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.\n\n## 4. Hosting und Content Delivery Networks\n\nDiese Website wird bei einem externen Dienstleister gehostet. Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters gespeichert. Hierbei kann es sich v.a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.\n\nDer Einsatz des Hosters erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO).\n\n**Backend-Services: Supabase**\n\nFür administrative Funktionen nutzen wir Supabase (Supabase Inc., USA). Dabei können Daten auf Servern in den USA verarbeitet werden. Supabase ist nach dem EU-US Data Privacy Framework zertifiziert. Weitere Informationen: https://supabase.com/privacy\n\n## 5. Cookies und Cookie-Consent-Management\n\n### Was sind Cookies?\n\nUnsere Website verwendet Cookies. Das sind kleine Textdateien, die Ihr Webbrowser auf Ihrem Endgerät speichert. Cookies helfen uns dabei, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen.\n\nEinige Cookies sind \"Session-Cookies.\" Solche Cookies werden nach Ende Ihrer Browser-Sitzung von selbst gelöscht. Andere Cookies bleiben auf Ihrem Endgerät gespeichert bis Sie diese löschen. Solche Cookies ermöglichen es uns, Ihren Browser beim nächsten Besuch wiederzuerkennen.\n\n### Cookie-Kategorien\n\nWir verwenden folgende Cookie-Kategorien, die Sie in unseren Cookie-Einstellungen verwalten können:\n\n**Notwendige Cookies (immer aktiv):**\nDiese Cookies sind für die Grundfunktionen der Website erforderlich und können nicht deaktiviert werden. Sie speichern keine persönlich identifizierbaren Informationen. Rechtsgrundlage: Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse).\n\n**Funktionale Cookies:**\nDiese Cookies ermöglichen erweiterte Funktionen und Personalisierung. Sie können von uns oder von Drittanbietern gesetzt werden. Rechtsgrundlage: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung).\n\n**Analytische Cookies:**\nDiese Cookies helfen uns zu verstehen, wie Besucher mit unserer Website interagieren. Alle Informationen sind anonymisiert. Rechtsgrundlage: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung).\n\n**Marketing Cookies:**\nDiese Cookies werden verwendet, um Besuchern relevante Werbung anzuzeigen. Rechtsgrundlage: Art. 6 Abs. 1 lit. a DSGVO (Einwilligung).\n\nSie können Ihre Cookie-Einstellungen jederzeit unter https://lashesbydanesh.at/cookie-einstellungen anpassen oder widerrufen.\n\n## 6. Datenerfassung durch Drittanbieter\n\n### Google Maps\n\nDiese Website nutzt den Kartendienst Google Maps. Anbieter ist die Google Ireland Limited (\"Google\"), Gordon House, Barrow Street, Dublin 4, Irland.\n\nZur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP-Adresse zu speichern. Diese Informationen werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung. Wenn Google Maps aktiviert ist, kann Google zum Zwecke der einheitlichen Darstellung der Schriftarten Google Web Fonts verwenden. Beim Aufruf von Google Maps lädt Ihr Browser die benötigten Web Fonts in ihren Browsercache, um Texte und Schriftarten korrekt anzuzeigen.\n\nDie Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO.\n\nMehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: https://policies.google.com/privacy\n\n### Treatwell Terminbuchung\n\nFür die Online-Terminbuchung nutzen wir den Dienst Treatwell (Wahanda Limited, London, UK). Bei der Buchung eines Termins über Treatwell werden Ihre Daten (Name, E-Mail-Adresse, Telefonnummer, gewünschter Termin) direkt an Treatwell übermittelt.\n\nDie Verarbeitung erfolgt zur Durchführung der Terminvereinbarung und stellt die Erfüllung eines Vertrages dar (Art. 6 Abs. 1 lit. b DSGVO). Treatwell verarbeitet diese Daten gemäß ihrer eigenen Datenschutzerklärung: https://www.treatwell.at/info/privacy/\n\nWir haben keinen Einfluss auf den Umfang und die weitere Verwendung der Daten durch Treatwell. Weitere Informationen entnehmen Sie bitte der Datenschutzerklärung von Treatwell.\n\n### Instagram\n\nAuf dieser Website sind Funktionen des Dienstes Instagram eingebunden. Diese Funktionen werden angeboten durch die Meta Platforms Ireland Limited, 4 Grand Canal Square, Dublin 2, Irland.\n\nWenn Sie in Ihrem Instagram-Account eingeloggt sind, können Sie durch Anklicken des Instagram-Buttons die Inhalte dieser Website mit Ihrem Instagram-Profil verlinken. Dadurch kann Instagram den Besuch dieser Website Ihrem Benutzerkonto zuordnen. Wir weisen darauf hin, dass wir als Anbieter der Seiten keine Kenntnis vom Inhalt der übermittelten Daten sowie deren Nutzung durch Instagram erhalten.\n\nDie Nutzung erfolgt auf Grundlage von Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb). Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO.\n\nWeitere Informationen finden Sie in der Datenschutzerklärung von Instagram: https://privacycenter.instagram.com/policy/\n\n## 7. Kontaktformular und E-Mail-Kontakt\n\nWenn Sie uns per Kontaktformular oder E-Mail Anfragen zukommen lassen, werden Ihre Angaben inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.\n\nDie Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde.\n\nDie von Ihnen im Kontaktformular eingegebenen Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z.B. nach abgeschlossener Bearbeitung Ihrer Anfrage). Zwingende gesetzliche Bestimmungen – insbesondere Aufbewahrungsfristen – bleiben unberührt.\n\n## 8. Empfehlungsprogramm\n\nWir freuen uns über Ihre Empfehlung! Im Rahmen unseres Empfehlungsprogramms können Sie uns Freunde und Bekannte weiterempfehlen. Dabei verarbeiten wir folgende Daten:\n\n- Ihr Name und Ihre E-Mail-Adresse (als Empfehlende/r)\n- Name und E-Mail-Adresse der empfohlenen Person\n- Zeitpunkt der Empfehlung\n\n**Rechtsgrundlage:** Die Verarbeitung erfolgt auf Grundlage Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).\n\n**Zweck:** Wir nutzen diese Daten ausschließlich, um die empfohlene Person über unser Angebot zu informieren und ggf. einen Empfehlungsbonus zu gewähren.\n\n**Speicherdauer:** Die Daten werden nach Abschluss der Empfehlungsaktion bzw. auf Ihren Wunsch gelöscht.\n\n**Widerruf:** Sie können Ihre Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Verarbeitung bleibt davon unberührt.\n\n## 9. SSL- bzw. TLS-Verschlüsselung\n\nDiese Seite nutzt aus Sicherheitsgründen und zum Schutz der Übertragung vertraulicher Inhalte, wie zum Beispiel Terminbuchungen oder Anfragen, die Sie an uns als Seitenbetreiber senden, eine SSL- bzw. TLS-Verschlüsselung. Eine verschlüsselte Verbindung erkennen Sie daran, dass die Adresszeile des Browsers von \"http://\" auf \"https://\" wechselt und an dem Schloss-Symbol in Ihrer Browserzeile.\n\nWenn die SSL- bzw. TLS-Verschlüsselung aktiviert ist, können die Daten, die Sie an uns übermitteln, nicht von Dritten mitgelesen werden.\n\n## 10. Ihre Rechte als betroffene Person\n\nUnter den angegebenen Kontaktdaten können Sie jederzeit folgende Rechte ausüben:\n\n- **Auskunft** über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO)\n- **Berichtigung** unrichtiger personenbezogener Daten (Art. 16 DSGVO)\n- **Löschung** Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO)\n- **Einschränkung** der Datenverarbeitung, sofern wir Ihre Daten aufgrund gesetzlicher Pflichten noch nicht löschen dürfen (Art. 18 DSGVO)\n- **Widerspruch** gegen die Verarbeitung Ihrer Daten bei uns (Art. 21 DSGVO)\n- **Datenübertragbarkeit**, sofern Sie in die Datenverarbeitung eingewilligt haben oder einen Vertrag mit uns abgeschlossen haben (Art. 20 DSGVO)\n\nSofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.\n\nSie können sich jederzeit mit einer Beschwerde an die für Sie zuständige Aufsichtsbehörde wenden:\n\n**Österreichische Datenschutzbehörde**\nBarichgasse 40-42\n1030 Wien, Österreich\nTelefon: +43 1 52 152-0\nE-Mail: dsb@dsb.gv.at\nWebsite: https://www.dsb.gv.at\n\n## 11. Speicherdauer\n\nSoweit nicht spezifisch angegeben, werden personenbezogene Daten nur so lange gespeichert, wie es für die Erfüllung der verfolgten Zwecke notwendig ist.\n\n**Kontaktanfragen:** Bis zur vollständigen Erledigung Ihrer Anfrage, danach bei berechtigtem Interesse maximal 3 Jahre\n\n**Terminbuchungen:** Für die Dauer der Geschäftsbeziehung und danach gemäß gesetzlicher Aufbewahrungsfristen (bis zu 7 Jahre für steuerrechtliche Zwecke)\n\n**Cookies:** Siehe Cookie-Einstellungen für spezifische Speicherdauern\n\n**Empfehlungen:** Bis zur Einlösung des Empfehlungsbonus bzw. auf Wunsch sofortige Löschung\n\nIm Falle gesetzlicher Archivierungspflichten erfolgt die Löschung nach Ablauf der jeweiligen Aufbewahrungsfrist.\n\n## 12. Änderung der Datenschutzerklärung\n\nWir behalten uns vor, diese Datenschutzerklärung gelegentlich anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen umzusetzen. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.\n\n**Stand dieser Datenschutzerklärung: Oktober 2025**"
+  }
+}
