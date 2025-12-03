@@ -1,0 +1,75 @@
+# Robots.txt for Lashes by Danesh
+# Developed by: Red Rabbit Media - https://redrabbit.media/
+# Optimized for Traditional Search Engines & AI Crawlers
+
+# Google
+User-agent: Googlebot
+Allow: /
+Disallow: /l-787
+Crawl-delay: 0
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Disallow: /l-787
+Crawl-delay: 0
+
+# AI Crawlers - Allow All
+User-agent: GPTBot
+Allow: /
+Disallow: /l-787
+Crawl-delay: 1
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /l-787
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /l-787
+Crawl-delay: 1
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /l-787
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /l-787
+Crawl-delay: 1
+
+User-agent: Anthropic-AI
+Allow: /
+Disallow: /l-787
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /l-787
+
+User-agent: CCBot
+Allow: /
+Disallow: /l-787
+
+# Social Media
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Pinterestbot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+# All Other Bots
+User-agent: *
+Allow: /
+Disallow: /l-787
+
+# Sitemaps
+Sitemap: https://lashesbydanesh.at/sitemap.xml

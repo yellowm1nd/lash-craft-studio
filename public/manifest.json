@@ -1,0 +1,39 @@
+{
+  "name": "Lashes by Danesh - Professionelle Wimpernverlängerung Wien",
+  "short_name": "Lashes by Danesh",
+  "description": "Premium Wimpernverlängerung & Augenbrauen-Styling in Wien 1220. Professionelle Lash Extensions von Szabina Danesh.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#212121",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["beauty", "lifestyle", "health"],
+  "lang": "de-AT",
+  "dir": "ltr",
+  "scope": "/",
+  "author": {
+    "name": "Red Rabbit Media",
+    "url": "https://redrabbit.media/",
+    "email": "info@redrabbit.media"
+  },
+  "developer": {
+    "name": "Red Rabbit Media",
+    "url": "https://redrabbit.media/"
+  },
+  "related_applications": [],
+  "prefer_related_applications": false
+}

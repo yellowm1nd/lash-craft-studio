@@ -1,0 +1,47 @@
+/* TEAM */
+Developer: Red Rabbit Media
+Site: https://redrabbit.media/
+Email: info@redrabbit.media
+Location: Vienna, Austria
+Role: Web Development, SEO Optimization, Technical Implementation
+
+Owner: Szabina Danesh
+Business: Lashes by Danesh
+Location: Vienna, Austria
+Role: Beauty Specialist, Lash Artist
+
+/* THANKS */
+Thanks to all the clients who trust us with their beauty journey!
+
+/* SITE */
+Last update: 2025/01/15
+Language: Deutsch / German
+Standards: HTML5, CSS3, JavaScript ES6+
+Components: React 18, TypeScript, TailwindCSS, Shadcn/ui
+Build: Vite
+Backend: Supabase
+Hosting: Vercel
+SEO: Structured Data (JSON-LD), AI-Crawler Optimization
+Performance: Lighthouse 90+, Core Web Vitals Optimized
+
+/* TECHNOLOGY */
+Frontend Framework: React 18.3
+Language: TypeScript 5.8
+Styling: TailwindCSS 3.4 + Shadcn/ui
+Build Tool: Vite 5.4
+State Management: React Context + TanStack Query
+Animations: Framer Motion
+Forms: React Hook Form + Zod
+Icons: Lucide React
+
+/* SEO & ANALYTICS */
+Structured Data: Schema.org JSON-LD
+Meta Framework: React Helmet Async
+Sitemap: XML + Image Sitemap
+Robots.txt: AI-Crawler Optimized (GPTBot, ClaudeBot, PerplexityBot)
+Analytics: Google Tag Manager + GA4
+
+/* COPYRIGHT */
+Website Development: © 2025 Red Rabbit Media
+Content & Images: © 2025 Lashes by Danesh
+All rights reserved.

@@ -1,0 +1,8 @@
+# Netlify/Vercel Redirects for SPA (Single Page Application)
+# This ensures that all routes are handled by React Router
+
+# Redirect all routes to index.html (SPA fallback)
+/*    /index.html   200
+
+# API routes (if you have any backend endpoints, preserve them)
+/api/*  /api/:splat  200
